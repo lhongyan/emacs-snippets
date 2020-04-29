@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: Strong emphasis
+# contributor: lihongyan
+# key: --
+# --
+**${1:Text}** $0

@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: org begin src
+# key: <b
+# --
+
+#+BEGIN_$1 $2
+  $0
+#+END_$1

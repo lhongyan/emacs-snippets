@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Link
+# key: mlink
+# --
+
+[$1]($2)
+$0
